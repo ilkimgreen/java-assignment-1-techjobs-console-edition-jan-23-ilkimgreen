@@ -129,7 +129,7 @@ public class TechJobs {
                 }
                 System.out.println("*****");
             }
-        } else{
+        } else {
             System.out.print("No Results");
         }
     }
